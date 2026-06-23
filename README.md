@@ -59,7 +59,7 @@ OR
 
 Open MATLAB and run:
 
-run .m file
+run .mlx file
 
 To simulate the high-mobility multipath Rayleigh fading channel, set:
 
