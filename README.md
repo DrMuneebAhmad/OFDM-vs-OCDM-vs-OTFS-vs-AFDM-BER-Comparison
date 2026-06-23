@@ -243,4 +243,4 @@ If you use this repository in academic work, please cite it as:
 
 ## License
 
-This project is released under the GNI License.
+This project is released under the GPL License.
