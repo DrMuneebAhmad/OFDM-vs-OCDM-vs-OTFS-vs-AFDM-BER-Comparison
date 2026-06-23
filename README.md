@@ -222,6 +222,10 @@ This repository does not yet implement complete physical-layer transceivers for 
 
 The Rayleigh fading comparison uses effective diversity and ICI assumptions. These assumptions are useful for high-level BER comparison, but they should not be interpreted as a substitute for complete waveform-specific receiver simulations.
 
+## Extra
+
+The comparison of the ambiguity function along with the BERE plot is also provided in the file named AF_wave.mlx
+
 ## Citation
 
 If you use this repository in academic work, please cite it as:
